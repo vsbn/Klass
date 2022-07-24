@@ -1,0 +1,13 @@
+﻿  get_type.cpp
+  Main.cpp
+C:\Users\ammar\Documents\GitHub\Klass\thread-test\thread.h(106,1): warning C4180: qualifier applied to function type has no meaning; ignored
+C:\Users\ammar\Documents\GitHub\Klass\thread-test\thread.h(131): message : see reference to class template instantiation 'thread::thread_data_storage3<void (int,int),int,int>' being compiled
+C:\Users\ammar\Documents\GitHub\Klass\thread-test\Main.cpp(11): message : see reference to function template instantiation 'thread::thread<void(int,int),int,int>(FunctionType (__cdecl *),int,int)' being compiled
+          with
+          [
+              FunctionType=void (int,int)
+          ]
+  thread.cpp
+  Generating Code...
+C:\Users\ammar\Documents\GitHub\Klass\thread-test\thread.cpp(20): warning C4715: 'ThreadInnit': not all control paths return a value
+  thread-test.vcxproj -> C:\Users\ammar\Documents\GitHub\Klass\thread-test\x64\Debug\thread-test.exe
